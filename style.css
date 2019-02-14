@@ -94,6 +94,7 @@ kbd {
   text-transform: none;
   letter-spacing: .1rem;
   color: gray;
+  font-size: 20pt;
 }
 
 .flex-container {
